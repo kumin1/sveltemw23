@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.0.2",
+    "sass": "^1.71.1",
+    "svelte": "^4.2.11",
+    "vite": "^5.1.4"
+  },
+  "dependencies": {
+    "@jamescoyle/svelte-icon": "^0.1.1",
+    "@mdi/js": "^7.4.47",
+    "@popperjs/core": "^2.11.8",
+    "axios": "^1.6.7",
+    "bootstrap": "^5.3.3",
+    "svelte-spa-router": "^4.0.1"
+  }
+}
